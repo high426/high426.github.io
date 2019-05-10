@@ -7,5 +7,6 @@
 
 
 super resolution
-![image](https://github.com/high426/high426.github.io/upload/master)
+![face_8x](https://github.com/high426/high426.github.io/upload/master)
+
 inpainting
