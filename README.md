@@ -12,4 +12,4 @@ super resolution
 ![face_8x](https://github.com/high426/high426.github.io/blob/master/face_8x.png)
 
 inpainting
-![dehazy](https://github.com/high426/high426.github.io/upload/master/dehazy.png)
+![dehazy](https://github.com/high426/high426.github.io/blob/master/dehazy.png)
