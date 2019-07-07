@@ -11,5 +11,5 @@ super resolution
 
 ![face_8x](https://github.com/high426/high426.github.io/blob/master/face_8x.png)
 
-inpainting
+自然场景中去雾
 ![dehazy](https://github.com/high426/high426.github.io/blob/master/dehazy.png)
